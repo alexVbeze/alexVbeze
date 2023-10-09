@@ -1,4 +1,8 @@
 ### Hi there 👋
+   
+![Leetcode Stats](https://leetcard.jacoblin.cool/alexVbeze?theme=dark)
+
+![Codewars Stats](https://github.r2v.ch/codewars?user=alexVbeze)
 
 <!--
 **alexVbeze/alexVbeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
